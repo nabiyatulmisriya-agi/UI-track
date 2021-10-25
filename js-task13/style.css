@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.heading {
+  font-size: 20px;
+  padding: 0px;
+}
+.container {
+  border-radius: 3%;
+  height: 600px;
+  width: 750px;
+  display: flex;
+  background-color: white;
+}
+.left {
+  background-image: url("https://i.pinimg.com/originals/a7/2e/e1/a72ee1cf63b3825c26f2d839ef5f1b32.jpg");
+  height: 600px;
+  width: 375px;
+  border-radius: 5%;
+}
+.right {
+  padding: 50px;
+}
+.button {
+  padding-left: 0px;
+}
+.img-text1 {
+  padding-top: 300px;
+  padding-left: 20px;
+}
+.img-text2 {
+  font-weight: lighter;
+  padding-left: 30px;
+  font-size: 30px;
+}
+.img-text3 {
+  padding-left: 230px;
+  padding-top: 40px;
+}
+.name {
+  font-weight: bolder;
+}
+.mail {
+  font-weight: bolder;
+}
+.pass {
+  font-weight: bolder;
+}
+.pass1 {
+  font-weight: bolder;
+}
+.condition {
+  font-weight: bolder;
+}

@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.snip {
+  font-size: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  padding-right: 100px;
+  justify-content: space-evenly;
+  border: 1px solid black;
+  width: 900px;
+}
+.one {
+  padding: 10px;
+  font-style: italic;
+}
+.two {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.two a {
+  text-decoration: none;
+}
+.three a {
+  text-decoration: none;
+}
+.three {
+  text-decoration: none;
+  flex-direction: column;
+  display: flex;
+  padding: 10px;
+}
+.four {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+}
